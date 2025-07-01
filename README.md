@@ -90,6 +90,13 @@ projeto-estouro-peso/
 
 ---
 
+## 🚧 Próximos Passos
+
+- Incluir variáveis climáticas (chuva, temperatura) na previsão
+- Testar outros algoritmos (Random Forest, XGBoost)
+- Criar uma dashboard interativa com Streamlit
+
+
 ## 📌 Conclusão
 
 Com esse modelo, a empresa passa a tomar decisões **baseadas em dados**, reduzindo custos, otimizando a coleta e aumentando a segurança da operação. A previsão de estouros de peso, antes impossível, agora é uma ferramenta prática e acessível para o dia a dia da gestão.
